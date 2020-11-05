@@ -1,0 +1,67 @@
+#logo{padding-left: 42%;
+padding-top: 10%;}
+#centre{padding-top: 35px;
+}
+#search{box-sizing: border-box;
+    outline: none;
+border-style: groove;
+border-radius: 35px;
+width: 40%;
+background-color: rgba(245, 245, 245, 0.075);
+max-height: 100px;
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left: 15px;
+font:black;
+font-size: large;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+box-shadow: 2px 5px 10px #f1efef;}
+.search1{box-sizing: border-box;
+width: 50px;
+padding-top: 2px;
+padding-bottom: 20px;
+padding-right: 5px;
+position: absolute;}
+.navbar{
+    padding-left: 25px;
+    text-decoration: none;
+    padding-top: 8px;
+    background: linear-gradient(35deg,white,rgba(252, 238, 238, 0.315),rgba(250, 248, 248, 0.027));
+    padding-bottom:5px;
+    border-radius: 10px;
+    font: menu;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: groove;
+    font-size: 15px;}
+#H1{margin-bottom: 5px;}
+#H1:hover{border-style: groove;
+        border-color: rgba(42, 43, 42, 0.877);
+    color:rgb(36, 19, 19);}
+#H1:active{color: seagreen;}
+#H1:visited{color:brown;}
+#H1{padding:0px 30px 0px 30px; 
+    text-decoration: none;
+        border-radius:-15px;
+        background: linear-gradient(35deg,rgba(235, 236, 234, 0.014),rgba(236, 187, 187, 0.199)) ;}
+.footer{float: bottom;
+padding-top: 260px;}
+#align{ padding-left: 25px;
+    text-decoration: none;
+    padding-top: 8px;
+    background: linear-gradient(35deg,white,rgba(252, 238, 238, 0.315),rgba(250, 248, 248, 0.027));
+    padding-bottom:5px;
+    border-radius: 10px;
+    font: menu;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-style: groove;
+    font-size: 15px;}
+    .nav-link{margin-bottom: 5px;
+    text-decoration:none;}
+    .nav-link:hover{border-style: groove;
+            border-color: rgba(42, 43, 42, 0.877);
+        color:rgb(36, 19, 19);}
+    .nav-link:active{color: seagreen;}
+    .nav-link:visited{color:brown;}
+    .nav-link{padding:0px 30px 0px 30px; 
+        border-radius:-15px;
+    background: linear-gradient(35deg,rgba(235, 236, 234, 0.014),rgba(236, 187, 187, 0.199)) ;}
